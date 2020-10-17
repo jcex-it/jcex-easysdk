@@ -6,6 +6,8 @@
 	<version>1.0.0-SNAPSHOT</version>
 	<modelVersion>4.0.0</modelVersion>
 
+	<description>Jcex Easy SDK for Javaallows you to enjoy a minimalist programming experience and quickly access the various high-frequency capabilities of the Jcex Open Platform.</description>
+
 
 	<properties>
 		<!-- Generic properties -->
