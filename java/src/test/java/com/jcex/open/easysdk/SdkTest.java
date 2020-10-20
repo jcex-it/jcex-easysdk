@@ -18,14 +18,15 @@ public class SdkTest extends TestCase {
 
     //String url = "http://127.0.0.1:8081";
 
-    String appId= "202005087083501681639424110";
+    String appId= "767777358982676480";
 
-    String privateKeyIsv = "MIIEvQIBADANdBgkqhkiG9w0BAQEFAASCBKcwgdgSjAgEAAoIBAQCfLM4aOzE/5NokbxiO2juoKm71iULl9Ue+T/QcsY0Z4JCm3r1Ub6i97AOamCEYnI1YhM6D3WCKnLERQPh5HWQwwLqt9Hb5hG6zPJJA+rJuohPgvtZKJpDKlmbRV0qFznV6bM1DG0jxX4rS2Onesl/nC0Zgy601ffDYURt3TlzL4KMWdKOE/L0COLYPywamTi1z/TTs0BchesWGmgAXyF1wZX59cLqnn+RGec0viJR2p5x6yjVaAwUJzCgggDzqeOk+FsO6q1V5LKHoVhV7W4H7WtItsN1zxqKn+b91naNp+keNup2B28qRKOQO0kcrItKSrQD6sBYyBW/Mxe32IzVVAgMBAAECggEAHnHcben6boUgMC3Lna8iD/UlyfLaB8/VTBJQ15giK9vm7vPVdKvys3jL66rDUcjHxDGKqnASQhDcUTeDDu9PNX/3dMQ4aVsqLUAdnS4WKND5SlhV9lLQCN+hhNLUXylxENx0mixC1F/41oFEoiKt8ywV5veuBngzM7y3qyci2p+sdNWxP/dCF4zdJMunoeuhbjMaWv0+dYdohN1SY/nk7AW1XN0LiRsB02OUJ0MB2iFDVLEZl5vpZ1fZPCw5pHbQlZKYC9FaFPSZbyQqjlW+XzYv0ukyyQiJ9g1ZpXECIOBlnVW5twvK3LYjFZM5fpU9KocRXgmO9HN3aRcToPrrYQKBgQDOSUAJf2sFonXINsGtXUlNZfJ9Q7r3nJFUjGiwABtbVnP60FE8IqbJ1FIhxnKOMec/DTvd7s6Gcaos6yQicbjcEldLk8t5sPOq7R3f357d9gywDRRJGT/bYWLOYm/2j72z4ANH+NCY1EjlyM0MHug9Olr+8dDxvee62konF+wFXQKBgQDFiQ0vEw7tarBE1eVAvuToBfGLkNQROlSZTorHrrJcbuOzX03DoI2eks2DHpnKSLDQU+AwuTW9c1NfTNtnEEc1apXVwvpzef09kWBTdM4MA73dpc8M7Nlt/tu7Xf6HF9I0bppKt0VHVbgnCxgkCQHqScuBY6HVUKIMrBi2I/04WQKBgFzB6U6cAealt6qQnKQ050orRk93TjIbL+pBvK0vTx3SERK961lMB42HsGrJjidMXzwl2j6gLDOeFrReA4CNfF9Qy/oK+hq9K8Q3HRDWv9v00J21M+LuvJ0L/F7rOoc2+UlRuIf7ZOjjw+e3VCRYHXuyqsoquBaLmxCVKXTMt+9tAoGAU6W9l3mSkKblDcEl20z60eXyaw9hPgpdWK4Rxo0Lqmiqs4JgA78xOT0hGa0Tor01YoKiJP/I6fi0DV8WaYZTISOJX4O5Wr0Fp9Sv3adQuXW8KOfVzbteN1383lLnPX2w3dMYMxt4ksSRvrbL+jZ2QSgOrTPri9EhTgxySm7jA8ECgYEAr/8sL4EfDteFuUUQHt+a0nTv009TjypGbBkvZA5Jk9Ng1MebLNpbH3S9q8e651aKypX7LvD/RGdZAiX0kbjIDvxTFpnQ8gi39xFpLYbom9KO9NZqWo52dyqQw+Cc2q0Q2t3e0eAaHxKxUME9gdm6PIrVXOjRnEgOxszzbOZeeVY=";
+    String privateKeyIsv = "/s6FFppSFKgJlwpWO48oGOR1S+0io6K9VYGwELXi7EJb9YJticuipTtGC8M3LkcRSrBm9k7Gmkq/mdLCXYuDzjh7ZE4lbKSnWcckcKhCKIOUZp/gOXSTq1yAkVwXYG06Wf4Jt3ByeDwTgAdcO3Li2wUV7SNErhsNucVwDiRM/W6OFfHL3BB5L0QY1RbJ6c78+zKL8yA3XigvCUqrSs1J01derN+EYUG2PBtq0yLQn26LhbTn1xX8XRHPPK+BMQe5NyGwEJaiRrOIOVAJXzSmxv34uX2Wh/Srt/cHfVQC7lL1So9Y4j+FOLRQE7yRl/0zVc9pAlIlAgMBAAECggEBAJ3js2x1RcSDXNGt0JiAwqMOh0shm4PC9+WjbVpzyGZoRJBd2OvSU3yx5jzc+ch1IhBmr2uFoonfWVvgaRlPgtc69VIULJCiROx0AvL8fpiFplGVHUyWO5d8MJBydoKsTUM9MKjT46/ixbtqjN2yJEO7tMUaPbD/1KTMqKiG3Elksic494xP8JEvjDN8VUb2ZAT5Azb48uXw2GNu9v7OgWZZWrXt8QOtuGu8ybwnDVPNQrxD651t5e2EzeIz6t9RjhkttWzzpYzDwE+9qmpCyPBsA50Q/7PgNahqxUOKNavpzf9pfA9J4O55LKg24UmAjUpdt+I1usYqqC5qc+KMxO0CgYEA2tS167e2cnHHyndDZDan7dqWTgpb9+vrraXC29FdqgjsI4aIlO3M8p9EK4N7FP5DgnMoQe5zO9ZUmcSVQhCtMqEzcNbs+j4pDmhswfSlv8iwX4YDfzIg7mQAyAk7EpxxpQGEaumsqTC6hRtrNWKXP/LdHmBt2iCgoNfSag+ZcIcCgYEAumQiRi93Nr3cxoxXUlQdM7Gm6xcsCgwJr7CRQJClJCxEO+bAxK5dMiweD0E5jPUhckPL2mUftm7OFF/AbeiKlCiYFFoFNMP5WXpMOFaLxKtoxMuB6sIzyYQpvQYMAqUapMFsrYkxn26OqHcs9qKa9V/mFm5czb5JbnpFxckJ7vMCgYEAmwuPAb4elKOtLPSnWP+op8vyJsUMOHJ9f4EsuNZ0iJ7dwKX3a525UkYp5LK5qDwm1OyGn4A1QTYwpuoz3qU2MeMpMU/2g687I6w1Mo8GSQYGgQfQvnRkBMPyEckIg704f/K9QYri/NU7skelBCQgifynUnh8HMp1RMDloqP+0U0CgYEAhe1BO1ELxceyhO9+JufNe8FggHdL64QuyZCDLfNA1bcA6FGrnSb0TAKrLqbdJU1VVPcl2Kzkln8TkEwkxlRajo6Eh8sPBpTx67sWXTzCfPP0+cKIfRhBgcB3BRz9MEFV3aAl6KM1hqs30hCfvC+mTD015FQ0VpktxjYRQEZt3sUCgYB3Ll7Oj6LOE1B7ioumJbRm4meZXseQ5YrC+3nLjMoIYdIzqrPW0pd7lZyRpeTSR0SoXiIz43N3WnNijdUSfPpo7P4Re7p9ZRgc7W8C7MbfdBHJvwI9JIlqbdKgPaPXkN54IfF3t4BSEGMYl4Qd3iMq15fnq8pRLjKsUUwUXeC8Ow==";
 
     // 声明一个就行
     OpenClient client = new OpenClient(url, appId, privateKeyIsv,"http://www.jcex.com");
 
-    String accessToken = "0ae3d20fb49e0acf91b3c7900be10888";
+    String accessToken = "4fa2b9f95181dbf6ab8c7";
+
 
     /**
      * 获取Token
@@ -33,9 +34,7 @@ public class SdkTest extends TestCase {
     @Test
     public void testToken() {
 
-        String app_id = "20200928760094870181249024";
-        String code = "3f3e7d4a31ac47ecd13854aa6b1ff9e0";
-
+        String code = "77dcc697ae95d624b4146b4f";
 
         OpenAuthTokenAppRequest request = new OpenAuthTokenAppRequest();
         OpenAuthTokenAppModel model = new OpenAuthTokenAppModel();
@@ -76,6 +75,16 @@ public class SdkTest extends TestCase {
         System.out.println("返回："+response.getBody());
     }
 
+    @Test
+    public void testWayBillInfo() {
+        CommonRequest request = new CommonRequest("jcex.tms.waybill.info");
+        Map<String, Object> bizModel = new HashMap<>();
+        bizModel.put("hawbcode", "JCTES20200921001_D168");
+        request.setBizModel(bizModel);
+        CommonResponse response = client.execute(request,accessToken);
+        System.out.println("返回："+response.getBody());
+    }
+
     /**
      * 获取账号信息
      */
@@ -88,17 +97,13 @@ public class SdkTest extends TestCase {
         System.out.println("返回："+response.getBody());
     }
 
-
-
-
-
     //OpenClient client = new OpenClient(url, appId, privateKeyIsv);
     /**
      * 获取佳成所有产品
      */
     @Test
     public void testProduct() {
-        CommonRequest request = new CommonRequest("jcex.product.get");
+        CommonRequest request = new CommonRequest("jcex.tms.product.get");
         // 发送请求
         CommonResponse response = client.execute(request);
         System.out.println("返回："+response.getBody());
@@ -110,7 +115,7 @@ public class SdkTest extends TestCase {
     @Test
     public void testGetProductByPage() {
 
-        CommonRequest request = new CommonRequest("jcex.product.page");
+        CommonRequest request = new CommonRequest("jcex.tms.product.page");
         //请求参数
         ProductRequestPageDTO productRequestPageDTO = new ProductRequestPageDTO();
         productRequestPageDTO.setPage(1);
