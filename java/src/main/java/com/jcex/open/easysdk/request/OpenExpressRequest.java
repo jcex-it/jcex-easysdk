@@ -13,9 +13,6 @@ import lombok.experimental.Accessors;
 public class OpenExpressRequest {
 
     private String product_id;
-//    @ApiModelProperty(value="回传地址",example = "http://localhost:8080/api/notify/")
-//    private String notify_url;
-
 
     private String jcex_key;
 

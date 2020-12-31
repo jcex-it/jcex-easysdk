@@ -24,7 +24,7 @@ public class OrderModel implements Serializable {
 
     private String  customer;
 
-    //@ApiModelProperty(value = "包裹明细")
+    //
     //private List<Package> packages;
 
 }
